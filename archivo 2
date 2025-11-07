@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Mi primera página</title>
+</head>
+<body>
+  <h1>Examen de Programación Web</h1>
+  <p>Autor: Ricardo [Tu Apellido]</p>
+  <p>Este documento demuestra mis conocimientos de HTML.</p>
+
+  <!-- Imagen -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" 
+       alt="Logo HTML5" width="200">
+
+  <!-- Enlace a sitio educativo -->
+  <p>Visita este sitio para aprender más: 
+    <a href="https://developer.mozilla.org" target="_blank">MDN Web Docs</a>
+  </p>
+
+  <!-- Tabla de materias y calificaciones -->
+  <table border="1" cellpadding="8">
+    <tr>
+      <th>Materia</th>
+      <th>Calificación</th>
+      <th>Profesor</th>
+    </tr>
+    <tr>
+      <td>Programación Web</td>
+      <td>10</td>
+      <td>Juan Pérez</td>
+    </tr>
+    <tr>
+      <td>Base de Datos</td>
+      <td>9</td>
+      <td>María López</td>
+    </tr>
+    <tr>
+      <td>Redes</td>
+      <td>8</td>
+      <td>Carlos Ruiz</td>
+    </tr>
+  </table>
+</body>
+</html>
