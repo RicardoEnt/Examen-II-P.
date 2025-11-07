@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Interacción con JavaScript</title>
+</head>
+<body>
+  <h2>Alumno: Ricardo - 5°A</h2>
+  <button onclick="saludar()">Saludar</button>
+
+  <script>
+    function saludar() {
+      alert("Hola Ricardo, bienvenido al examen de programación web.");
+    }
+  </script>
+</body>
+</html>
